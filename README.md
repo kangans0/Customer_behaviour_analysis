@@ -109,5 +109,5 @@ The project demonstrates how **raw data can be transformed into meaningful insig
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/data-analytics-project.git
-cd data-analytics-project
+git clone https://github.com/your-username/customer_behaviour_analysis.git
+cd customer_behaviour_analysis
